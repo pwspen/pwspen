@@ -2,7 +2,15 @@ Hi!
 
 [Website](https://synapsomorphy.com)
 
-[Contact](mailto:patrickwspencer@gmail.com)
+[Contact: patrickwspencer@gmail.com](mailto:patrickwspencer@gmail.com)
+
+Working at Andson Biotech on revolutionizing cell therapy development
+
+Fullstack engineer as in everything [code, electrical, mechanical]
+
+Skills: Python, embedded, Typescript, React, electrical eng, PCB design, 3d printing, CAD
+
+
 
 <!--
 **pwspen/pwspen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
