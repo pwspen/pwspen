@@ -8,7 +8,7 @@ Working at Andson Biotech on revolutionizing cell therapy development
 
 Fullstack engineer as in everything [code, electrical, mechanical]
 
-Skills: Python, embedded C/++, Typescript, React, electrical eng, PCB design, 3d printing, CAD
+Skills: Python, embedded C/++, Typescript, React, electrical eng, PCB design, 3d printing, machining, CAD
 
 
 
