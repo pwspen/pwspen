@@ -4,14 +4,6 @@ Hi!
 
 [Contact: patrickwspencer@gmail.com](mailto:patrickwspencer@gmail.com)
 
-Working at Andson Biotech on revolutionizing cell therapy development
-
-Fullstack engineer as in everything [code, electrical, mechanical]
-
-Skills: Python, embedded C/++, Typescript, React, electrical eng, PCB design, 3d printing, machining, CAD
-
-
-
 <!--
 **pwspen/pwspen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
